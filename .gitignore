@@ -123,3 +123,8 @@ tis/cpp_client/build/*
 log*txt
 
 tvm/
+
+*.mp4
+*.avi
+*.jpg
+*.png
